@@ -14,5 +14,7 @@ namespace GetFood.Entities.Models
         public Province Province { get; set; }
         public bool Init { get; set; }
 
+        //test
+
     }
 }
